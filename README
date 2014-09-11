@@ -1,0 +1,1 @@
+Esto es para tener un poco de orden con la factura electrónica, toma un archivo cfdi en xml y lo renombra con algo que tenga sentido, adicional, si encuentra un archivo pdf con el nombre original lo renombra y así tener ambos archivos con el mismo nombre direnete extensión.
